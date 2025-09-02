@@ -73,9 +73,4 @@ pnpm build # or npm run build or yarn build
 
 ---
 
-### Built with ❤️ by:
 
-- [Archit Aggarwal](https://github.com/ArchitAgarwal04)
-- [Priyanshu Thapliyal](https://github.com/priyanshuthapliyal2005)
-- [Armaan Rawat](https://github.com/ArmaanRawat)
-- [Devanshu Sharma](https://github.com/devanshusharma2005/) 
